@@ -14,10 +14,3 @@ function crearColorRGB() {
     const stringRGB = "rgb(" + arrayRGB.toString() + ")";
     return stringRGB;
 }
-
-
-//en el lugar del for también se podrían generar tres números dentro de una variable, ejemplo:
-
-// let crearColor = 'rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) 
-//                   + ',' + (Math.floor(Math.random() * 256)) + ')';
-

@@ -3,11 +3,12 @@
 button {
     font-family: 'VT323', monospace;
     font-size: 30px;
+    margin: auto;
 }
 
 #color-container {
-    padding: 30px;
-    margin: 30px;
+    padding: auto;
+    margin: auto;
     text-align: center;
     background-color: transparent;
     width: 250px;
